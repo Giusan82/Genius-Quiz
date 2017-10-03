@@ -1,4 +1,4 @@
-https://discussions.udacity.com/t/genius-quiz-an-quiz-app-with-multiple-answer-free-text-response-checkboxes-and-radio-buttons/238225
+
 Here there is an app that I made for the third project "Quiz App" of the course "Android for Beginners".
 
 So I decide of building up an app quizzes on topics about chemistry.
@@ -14,3 +14,5 @@ I added free text response, checkboxes, and radio buttons. The result is shown a
 I hope you like this app and you will find it useful.
 
 Please give me your feedback for any improvement or any issue or if have question I will happy to help you.
+
+https://discussions.udacity.com/t/genius-quiz-an-quiz-app-with-multiple-answer-free-text-response-checkboxes-and-radio-buttons/238225
